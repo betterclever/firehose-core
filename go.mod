@@ -224,6 +224,7 @@ replace (
 	cloud.google.com/go => github.com/streamingfast/google-cloud-go v0.0.0-20241202194114-f77ff78d4f66
 	github.com/ShinyTrinkets/overseer => github.com/streamingfast/overseer v0.2.1-0.20210326144022-ee491780e3ef
 	github.com/jhump/protoreflect => github.com/streamingfast/protoreflect v0.0.0-20231205191344-4b629d20ce8d
-	github.com/streamingfast/substreams => github.com/betterclever/substreams v0.0.0-20250502205134-97abc438472c
 	github.com/tetratelabs/wazero => github.com/streamingfast/wazero v0.0.0-20241202185309-91287c3640ed
 )
+
+replace github.com/streamingfast/substreams => github.com/betterclever/substreams v0.0.0-20250502214704-316270b6640d

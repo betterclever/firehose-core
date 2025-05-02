@@ -1628,8 +1628,8 @@ github.com/azer/logger v1.0.0/go.mod h1:iaDID7UeBTyUh31bjGFlLkr87k23z/mHMMLzt6YQ
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
-github.com/betterclever/substreams v0.0.0-20250502205134-97abc438472c h1:ol+jCdFcgx1Vdil7vyazFTdnXl8kRBO50VS4txA1/iA=
-github.com/betterclever/substreams v0.0.0-20250502205134-97abc438472c/go.mod h1:9FiCsQ4INbJd4mZuoZhPQnZfcCw1SjJpk5q9Z1zgQzk=
+github.com/betterclever/substreams v0.0.0-20250502214704-316270b6640d h1:RLfYIORWeNy/cahE5UYQ65tl2u6tpTx1i6/02vi7Cgk=
+github.com/betterclever/substreams v0.0.0-20250502214704-316270b6640d/go.mod h1:9FiCsQ4INbJd4mZuoZhPQnZfcCw1SjJpk5q9Z1zgQzk=
 github.com/bits-and-blooms/bitset v1.12.0 h1:U/q1fAF7xXRhFCrhROzIfffYnu+dlS38vCZtmFVPHmA=
 github.com/bits-and-blooms/bitset v1.12.0/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
 github.com/blendle/zapdriver v1.3.1/go.mod h1:mdXfREi6u5MArG4j9fewC+FGnXaBR+T4Ox4J2u4eHCc=
